@@ -22,7 +22,7 @@ hr {
 }
 
 header {
-  background: url(./images/Header.jpg);
+  background: url("https://emanuelceriana.github.io/cooking-blog/images/Header.jpg");
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -333,7 +333,7 @@ header {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url(/images/vector.jpg);
+    background-image: url("https://emanuelceriana.github.io/cooking-blog/images/vector.jpg");
     background-repeat: repeat;
     background-size: contain;
     filter: brightness(50%);
@@ -602,7 +602,7 @@ footer {
 
 @media only screen and (max-width: 768px) {
   header {
-    background: url(./images/Header-mobile.jpg);
+    background: url("https://emanuelceriana.github.io/cooking-blog/images/Header-mobile.jpg");
     background-size: cover;
     background-position: center;
     height: 100vh;
